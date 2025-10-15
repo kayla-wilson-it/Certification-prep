@@ -1,5 +1,7 @@
 # Security+ Incident Response Template
 
+![Incident Response Workflow](https://copilot.microsoft.com/th/id/BCO.753969b9-79ed-4696-9406-420a178f4319.png)
+
 This template outlines the standard phases of incident response based on NIST and Security+ best practices. Use it to document and guide response efforts for cybersecurity events.
 
 ---
@@ -51,3 +53,5 @@ This template outlines the standard phases of incident response based on NIST an
 
 - This template is designed for educational and lab use.
 - Customize it for real-world environments by adding compliance, legal, and escalation details.
+
+
