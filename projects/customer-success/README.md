@@ -36,3 +36,6 @@ These projects highlight your ability to:
 - Troubleshoot cloud and infrastructure issues
 - Document repeatable solutions for team learning
 - Contribute to startup environments with agility and professionalism
+
+  ![Customer Support Workflow](https://copilot.microsoft.com/th/id/BCO.36b34842-122e-4b4a-9999-7cb84e0f4fee.png)
+
