@@ -31,6 +31,6 @@ These certifications reflect my commitment to foundational IT knowledge and clou
 ## 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/kayla-a-wilson-it/)
-- [Resume](https://your-resume-link.com)
+
 
 
